@@ -1,0 +1,24 @@
+superscript(power): ^{}
+subscript: {}
+subscript to the power : {}^{}
+subcript whole to the power : {{}}^{}
+limits to a number : \textrm{{{}}^{}}
+fraction: \frac{}{}
+mixed fraction: 2\tfrac{1}{3}(example)
+partial fractions: \frac{\partial 1}{\partial x}
+partial fraction second degree: \frac{\partial^2 }{\partial x^2}
+derivation : \frac{\mathrm{d} }{\mathrm{d} x}
+integration with limits : \int{}^{}
+only integration: \int
+whole integratio: \oint
+whole integeration with limits: \oint{}^{}
+double integration: \iint{}^{}
+limit extends to: \lim{1 \to 3}
+SUMATION: \sum 
+SUMMATION WITH LIMITS: \sum_{}^{}
+SQUAREROOT: \SQRT{}
+NTH ROOT: \sqrt[]{}
+GREEK ALPHABETS
+\alpha \beta \gamma \delta \epsilon \varepsilon \zeta \eta \kappa \iota \vartheta \theta \lambda \mu \nu \xi \varrho \rho \varpi \pi \sigma \varsigma \tau \upsilon \psi \chi \phi \omega 
+CAPTIAL GREEK ALPHABETS
+\Gamma \Delta \Theta \Lambda \Xi \Pi \Sigma \Upsilon \Phi \Psi \Omega
