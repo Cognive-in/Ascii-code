@@ -1,2 +1,3 @@
 # Ascii-code
-For writing mathematical values in the blog
+Katex For writing mathematical values in the blog
+and for general purposes
