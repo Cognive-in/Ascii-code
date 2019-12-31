@@ -1,6 +1,6 @@
 superscript(power): ^{}
 subscript: _{}
-subscript to the power : {}^{}
+subscript to the power :_{}^{}
 subcript whole to the power : {{}}^{}
 limits to a number : \textrm{{{}}^{}}
 fraction: \frac{}{}
@@ -16,7 +16,7 @@ double integration: \iint{}^{}
 limit extends to: \lim{1 \to 3}
 SUMATION: \sum 
 SUMMATION WITH LIMITS: \sum_{}^{}
-SQUAREROOT: \SQRT{}
+SQUAREROOT: \sqrt{}
 NTH ROOT: \sqrt[]{}
 GREEK ALPHABETS
 \alpha \beta \gamma \delta \epsilon \varepsilon \zeta \eta \kappa \iota \vartheta \theta \lambda \mu \nu \xi \varrho \rho \varpi \pi \sigma \varsigma \tau \upsilon \psi \chi \phi \omega 
