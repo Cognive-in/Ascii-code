@@ -1,5 +1,5 @@
 superscript(power): ^{}
-subscript: {}
+subscript: _{}
 subscript to the power : {}^{}
 subcript whole to the power : {{}}^{}
 limits to a number : \textrm{{{}}^{}}
